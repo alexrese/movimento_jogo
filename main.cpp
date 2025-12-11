@@ -1,9 +1,10 @@
 /*
   Código criado por Thiago Felski Pereira
+  Adaptado Alex Luciano Roesler Rese
   Move um caractere na matriz sem testes
   Útil para implementação de jogos
   com movimentação de personagem.
-  (Típicos de algoritmos 1)
+  (Típicos de algoritmos)
 */
 #include <iostream>
 #include <termios.h>
